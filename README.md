@@ -1,4 +1,4 @@
-    rag-mark-poc/
+    Mark-Cot-RAG/
     │
     ├── .gitignore
     ├── README.md
